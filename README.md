@@ -11,3 +11,5 @@ D'abord, il faut telecharger les deux repositories :<br>
   https://github.com/arthurescriou/redis-node<br>
   https://github.com/arthurescriou/redis-react
 
+Puis executer les fichiers du type dockerfile et yaml en suivant le rapport du projet   
+
