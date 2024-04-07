@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: react-appp
+  labels:
+    app: react-appp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: react-appp
+  template:
+    metadata:
+      labels:
+        app: react-appp
+        
+    spec:
+      containers:
+        - name: node-redis
+          image: zaki975/react-app
+          ports:
+            - containerPort: 3000
+         
