@@ -5,4 +5,6 @@ Pour observer le comportement des différents composants il faudra configurer un
 
 <img width="946" alt="infrastructure" src="https://github.com/sekhriabdelali/Projet-AutoScaling-et-IaC/assets/84051665/33572671-7706-45b2-909d-0a1462c6bf15">
 
+https://github.com/arthurescriou/redis-node
+https://github.com/arthurescriou/redis-react
 
